@@ -1,37 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Michael Sullivan
 =========================================================================================================================================
 
-Frontend developer focused on building responsive, user-centered web applications with React, Next.js, JavaScript, and TypeScript. I transitioned into software development after more than 20 years of leadership and operations management experience, bringing a unique mix of technical ability, problem-solving, communication, and business insight into every project I build.
+<h1>Software Developer</h1>  
 
-My background includes managing large teams, driving operational performance, mentoring employees, analyzing business data, and improving customer experiences in fast-paced environments. Those experiences helped shape the way I approach development today — with a strong focus on usability, scalability, clean UI design, and real-world functionality.
-
-I enjoy creating modern web applications that combine clean design with intuitive user experiences. My projects include API-driven applications, interactive dashboards, responsive frontend interfaces, authentication systems, and full-stack-ready web experiences deployed through modern workflows using GitHub and Vercel.
-
-Current technologies and tools I work with include:
-
-• React
-
-• Next.js
-
-• JavaScript
-
-• TypeScript
-
-• HTML5 & CSS3
-
-• Tailwind CSS
-
-• Firebase
-
-• REST APIs
-
-• Git & GitHub
-
-• Vercel
-
-I’m continuously improving my skills through hands-on development, personal projects, and learning modern best practices in frontend engineering and UI/UX design.
-
-Always open to collaborating, learning, and connecting with other developers and teams building impactful products.
+Frontend-oriented software developer with a professional background in Business Management.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [mesem24@gmail.com](mailto:mesem24@gmail.com)
@@ -49,8 +21,8 @@ Always open to collaborating, learning, and connecting with other developers and
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mesem-rgb/ms-portfolio-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo=ms-portfolio-next&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mesem-rgb/ Skinstric-MS-Internship" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo= Skinstric-MS-Internship&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/mesem-rgb/ms-portfolio-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=ms-portfolio-next&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mesem24-rgb/ Skinstric-MS-Internship" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo= Skinstric-MS-Internship&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/mesem-rgb/MLB-Search-React-MS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo=MLB-Search-React-MS&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mesem-rgb/virtual-internship-summarist" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo=virtual-internship-summarist&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/mesem24-rgb/MLB-Search-React-MS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo=MLB-Search-React-MS&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mesem24-rgb/virtual-internship-summarist" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo=virtual-internship-summarist&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
