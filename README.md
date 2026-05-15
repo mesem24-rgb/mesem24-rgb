@@ -18,32 +18,12 @@ Frontend-oriented software developer with a professional background in Business 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mesem-rgb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/michael-sullivan-92990ba2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/michaelsullivan2908" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com//michael.sullivan.5249349/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-### Badges
 
-<b>Top Repositories</b>
+### Top Repositories
 
-<div width="100%" align="center">
-
-<a href="https://github.com/mesem24-rgb/ms-portfolio-next" align="left">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=ms-portfolio-next&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-
-<a href="https://github.com/mesem24-rgb/Skinstric-MS-Internship" align="right">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=Skinstric-MS-Internship&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-
-</div>
-
-<br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-
-<a href="https://github.com/mesem24-rgb/MLB-Search-React-MS" align="left">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=MLB-Search-React-MS&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-
-<a href="https://github.com/mesem24-rgb/virtual-internship-summarist" align="right">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=virtual-internship-summarist&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-
-</div>
+| Project | Description |
+|---|---|
+| [Portfolio Website](https://github.com/mesem24-rgb/ms-portfolio-next) | Personal portfolio built with Next.js and Vercel |
+| [Skinstric Internship](https://github.com/mesem24-rgb/Skinstric-MS-Internship) | Frontend internship project focused on responsive UI |
+| [MLB Player Search](https://github.com/mesem24-rgb/MLB-Search-React-MS) | React app using MLB player search and stats |
+| [Summarist Clone](https://github.com/mesem24-rgb/virtual-internship-summarist) | Next.js app with auth, book pages, and API data |
