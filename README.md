@@ -21,8 +21,28 @@ Frontend-oriented software developer with a professional background in Business 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mesem-rgb/ms-portfolio-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=ms-portfolio-next&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mesem24-rgb/ Skinstric-MS-Internship" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo= Skinstric-MS-Internship&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
 
-<br /><br /><br /><br /><br />
+<a href="https://github.com/mesem24-rgb/ms-portfolio-next" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=ms-portfolio-next&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 
-<div width="100%" align="center"><a href="https://github.com/mesem24-rgb/MLB-Search-React-MS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo=MLB-Search-React-MS&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mesem24-rgb/virtual-internship-summarist" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem-rgb&repo=virtual-internship-summarist&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/mesem24-rgb/Skinstric-MS-Internship" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=Skinstric-MS-Internship&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center">
+
+<a href="https://github.com/mesem24-rgb/MLB-Search-React-MS" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=MLB-Search-React-MS&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
+<a href="https://github.com/mesem24-rgb/virtual-internship-summarist" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mesem24-rgb&repo=virtual-internship-summarist&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
+</div>
