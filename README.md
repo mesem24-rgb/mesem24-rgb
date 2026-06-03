@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h1>Software Developer</h1>  
 
-Frontend-oriented software developer with a professional background in Business Management.
+Frontend developer building responsive, production-style web applications with React, Next.js, TypeScript, Supabase, and PostgreSQL. Leveraging 20+ years of leadership and operations experience to create practical, user-focused software solutions.
 
 * 🌍  I'm based in Gulfport, MS, United States
 * ✉️  You can contact me at [mesem24@gmail.com](mailto:mesem24@gmail.com)
@@ -19,11 +19,19 @@ Frontend-oriented software developer with a professional background in Business 
 
 <p align="left"> <a href="https://www.github.com/mesem-rgb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/michael-sullivan-92990ba2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/michaelsullivan2908" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com//michael.sullivan.5249349/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 
-### Top Repositories
 
-| Project | Description |
-|---|---|
-| [Portfolio Website](https://github.com/mesem24-rgb/ms-portfolio-next) | Personal portfolio built with Next.js and Vercel |
-| [Skinstric Internship](https://github.com/mesem24-rgb/Skinstric-MS-Internship) | Frontend internship project focused on responsive UI |
-| [MLB Player Search](https://github.com/mesem24-rgb/MLB-Search-React-MS) | React app using MLB player search and stats |
-| [Summarist Clone](https://github.com/mesem24-rgb/virtual-internship-summarist) | Next.js app with auth, book pages, and API data |
+### Featured Projects
+
+| Project                        | Description                                                                                                                       |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| 🚧 **ConstructFlow**           | Construction management dashboard built with Next.js, TypeScript, and modern UI architecture inspired by Procore.                 |
+| 🤖 **Skinstric AI Experience** | High-fidelity frontend experience featuring camera permissions, responsive layouts, loading states, and polished UI interactions. |
+| 📚 **Summarist Clone**         | Full Next.js application with authentication, dynamic routing, audio player functionality, and API-driven content.                |
+| ⚾ **MLB Player Search**        | React application with dynamic search, player statistics, modals, and team-building functionality.                                |
+| 💼 **Portfolio Website**       | Personal portfolio showcasing frontend projects, case studies, and modern UI design.                                              |
+
+### Currently Building
+
+🚧 **ConstructFlow** — A construction management dashboard focused on project tracking, workflow visibility, team coordination, and operational efficiency for small construction businesses.
+
+**Tech Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL · Vercel
