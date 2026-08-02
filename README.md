@@ -1,37 +1,170 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Michael Sullivan
-=========================================================================================================================================
+# Hi, I'm Michael Sullivan 👋
 
-<h1>Software Developer</h1>  
+## Frontend Software Engineer
 
-Frontend developer building responsive, production-style web applications with React, Next.js, TypeScript, Supabase, and PostgreSQL. Leveraging 20+ years of leadership and operations experience to create practical, user-focused software solutions.
+Frontend-focused software developer building responsive websites, business applications, dashboards, and workflow tools with React, Next.js, TypeScript, and Supabase.
 
-* 🌍  I'm based in Gulfport, MS, United States
-* ✉️  You can contact me at [mesem24@gmail.com](mailto:mesem24@gmail.com)
-* 💻  See my portfolio at https://michaelsullivan-portfolio-next-2.vercel.app/
-* 🧠  I'm currently learning backend components
-* 💬  Ask me about Disc Golf 🥏 it's my source of decompressing.
+I transitioned into software development after more than 20 years of leadership and operations management experience. That background helps me approach software from both the technical and business sides—focusing on usability, clear workflows, thoughtful design, and solutions that solve real operational problems.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+- 📍 Based in Gulfport, Mississippi
+- 💼 Open to frontend development, software engineering, and freelance opportunities
+- 🧠 Experienced in leadership, operations, mentoring, and process improvement
+- 🛠️ Currently building production-style business applications and client websites
+- 🌐 Portfolio: [michaelsullivan-portfolio-next-2.vercel.app](https://michaelsullivan-portfolio-next-2.vercel.app/)
+- 📧 Email: [mesem24@gmail.com](mailto:mesem24@gmail.com)
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/mesem-rgb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/michael-sullivan-92990ba2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/michaelsullivan2908" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com//michael.sullivan.5249349/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+## Technical Skills
 
+### Frontend
 
-### Featured Projects
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-| Project                        | Description                                                                                                                       |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 🚧 **ConstructFlow**           | Construction management dashboard built with Next.js, TypeScript, and modern UI architecture inspired by Procore.                 |
-| 🤖 **Skinstric AI Experience** | High-fidelity frontend experience featuring camera permissions, responsive layouts, loading states, and polished UI interactions. |
-| 📚 **Summarist Clone**         | Full Next.js application with authentication, dynamic routing, audio player functionality, and API-driven content.                |
-| ⚾ **MLB Player Search**        | React application with dynamic search, player statistics, modals, and team-building functionality.                                |
-| 💼 **Portfolio Website**       | Personal portfolio showcasing frontend projects, case studies, and modern UI design.                                              |
+### Backend, Data & Deployment
 
-### Currently Building
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-🚧 **ConstructFlow** — A construction management dashboard focused on project tracking, workflow visibility, team coordination, and operational efficiency for small construction businesses.
+---
 
-**Tech Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL · Vercel
+## Featured Projects
+
+### [MES Website](https://github.com/mesem24-rgb/mes-website)
+
+Marketing website for a software development business focused on custom websites, workflow applications, and business technology solutions.
+
+**Highlights**
+
+- Built with Next.js, TypeScript, and Tailwind CSS
+- Interactive experience paths for different client needs
+- Responsive, component-driven architecture
+- Animated visual elements and polished UI transitions
+- Brand-focused design for presenting professional software services
+
+---
+
+### [Compass Recruiting CRM](https://github.com/mesem24-rgb/compass-recruiting-crm)
+
+Custom recruiting management platform designed around real recruiter workflows.
+
+**Highlights**
+
+- Candidate, client, job-order, and recruiting-pipeline management
+- Searchable candidate records and workflow-driven interfaces
+- Authentication and data management with Supabase
+- Dynamic routes and reusable dashboard components
+- Built with Next.js, React, TypeScript, PostgreSQL, and Tailwind CSS
+
+---
+
+### [ConstructFlow](https://github.com/mesem24-rgb/construct-flow)
+
+Construction management application for organizing projects, tasks, documents, daily logs, RFIs, contacts, and change orders.
+
+**Highlights**
+
+- Multi-section business dashboard
+- Project and task tracking workflows
+- Budget, status, and activity visualizations
+- Supabase-powered data architecture
+- Responsive application interface built with Next.js and TypeScript
+
+---
+
+### [Elite Ball Co](https://github.com/mesem24-rgb/elite-ball-co)
+
+Responsive introductory website for a reclaimed golf-ball business.
+
+**Highlights**
+
+- Designed for a small-business product brand
+- Clear product presentation and customer-focused calls to action
+- Mobile-first responsive layout
+- Built with Next.js, TypeScript, and modern CSS
+- Developed as an example of an affordable introductory business website
+
+---
+
+### [Portfolio Website](https://github.com/mesem24-rgb/ms-portfolio-next)
+
+Personal developer portfolio showcasing production-style applications, technical skills, and professional experience.
+
+**Highlights**
+
+- Responsive project showcase
+- Interactive About and Contact experiences
+- Theme controls and interface animations
+- Reusable React component architecture
+- Deployed through GitHub and Vercel
+
+---
+
+### [Summarist Clone](https://github.com/mesem24-rgb/virtual-internship-summarist)
+
+Production-style book-summary application created with Next.js.
+
+**Highlights**
+
+- Authentication and protected application routes
+- Dynamic book and audio-player pages
+- Search, library, account, and settings workflows
+- Reusable components and shared application state
+- Responsive API-driven user interface
+
+---
+
+### [MLB Player Search](https://github.com/mesem24-rgb/MLB-Search-React-MS)
+
+Interactive React application that retrieves and presents player information from the MLB Stats API.
+
+**Highlights**
+
+- Search-driven API integration
+- Dynamic player-stat displays
+- Modal-based interfaces
+- Shared application state and reusable components
+- Responsive layouts and navigation
+
+---
+
+## What I Bring Beyond Code
+
+My background includes more than 20 years of business leadership and operational management experience.
+
+That experience strengthened my ability to:
+
+- Translate business needs into practical software workflows
+- Communicate clearly with technical and nontechnical stakeholders
+- Lead projects and manage competing priorities
+- Mentor team members and collaborate across departments
+- Analyze performance data and identify process improvements
+- Build software around the way a business actually operates
+
+---
+
+## Current Focus
+
+- Building full-stack-ready applications with Next.js and Supabase
+- Creating scalable component systems with TypeScript
+- Designing workflow applications for real business operations
+- Improving accessibility, responsiveness, and frontend performance
+- Developing websites and custom software for small and growing businesses
+
+---
+
+## Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0072E3?style=for-the-badge)](https://michaelsullivan-portfolio-next-2.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Sullivan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-sullivan-92990ba2)
+[![Email](https://img.shields.io/badge/Email-mesem24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesem24@gmail.com)
