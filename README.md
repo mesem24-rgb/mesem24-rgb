@@ -4,14 +4,17 @@
 
 Frontend-focused software developer building responsive websites, business applications, dashboards, and workflow tools with React, Next.js, TypeScript, and Supabase.
 
+I’m also the founder of [MES](https://www.mes-solutions.dev), a Gulfport-based software business creating custom websites, workflow applications, and practical digital solutions for small and growing businesses.
+
 I transitioned into software development after more than 20 years of leadership and operations management experience. That background helps me approach software from both the technical and business sides—focusing on usability, clear workflows, thoughtful design, and solutions that solve real operational problems.
 
 - 📍 Based in Gulfport, Mississippi
 - 💼 Open to frontend development, software engineering, and freelance opportunities
 - 🧠 Experienced in leadership, operations, mentoring, and process improvement
 - 🛠️ Currently building production-style business applications and client websites
-- 🌐 Portfolio: [michaelsullivan-portfolio-next-2.vercel.app](https://michaelsullivan-portfolio-next-2.vercel.app/)
-- 📧 Email: [mesem24@gmail.com](mailto:mesem24@gmail.com)
+- 🌐 MES: [mes-solutions.dev](https://www.mes-solutions.dev)
+- 🖥️ Portfolio: [michaelsullivan-portfolio-next-2.vercel.app](https://michaelsullivan-portfolio-next-2.vercel.app/)
+- 📧 Business inquiries: [contact@mes-solutions.dev](mailto:contact@mes-solutions.dev)
 
 ---
 
@@ -40,9 +43,9 @@ I transitioned into software development after more than 20 years of leadership 
 
 ## Featured Projects
 
-### [MES Website](https://github.com/mesem24-rgb/mes-website)
+### [MES Website](https://www.mes-solutions.dev)
 
-Marketing website for a software development business focused on custom websites, workflow applications, and business technology solutions.
+Marketing website for MES, a software development business focused on custom websites, workflow applications, internal business tools, and practical technology guidance.
 
 **Highlights**
 
@@ -165,6 +168,10 @@ That experience strengthened my ability to:
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0072E3?style=for-the-badge)](https://michaelsullivan-portfolio-next-2.vercel.app/)
+[![MES](https://img.shields.io/badge/MES-Visit_Website-0072E3?style=for-the-badge)](https://www.mes-solutions.dev)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-1F2937?style=for-the-badge)](https://michaelsullivan-portfolio-next-2.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Sullivan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-sullivan-92990ba2)
-[![Email](https://img.shields.io/badge/Email-mesem24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesem24@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-contact%40mes--solutions.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mes-solutions.dev)
