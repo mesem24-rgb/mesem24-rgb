@@ -13,7 +13,7 @@ I transitioned into software development after more than 20 years of leadership 
 - 🧠 Experienced in leadership, operations, mentoring, and process improvement
 - 🛠️ Currently building production-style business applications and client websites
 - 🌐 MES: [mes-solutions.dev](https://www.mes-solutions.dev)
-- 🖥️ Portfolio: [michaelsullivan-portfolio-next-2.vercel.app](https://portfolio.mes-solutions.dev)
+- 🖥️ Portfolio: [portfolio.mes-solutions.dev](https://portfolio.mes-solutions.dev)
 - 📧 Business inquiries: [contact@mes-solutions.dev](mailto:contact@mes-solutions.dev)
 
 ---
@@ -45,15 +45,18 @@ I transitioned into software development after more than 20 years of leadership 
 
 ### [MES Website](https://www.mes-solutions.dev)
 
-Marketing website for MES, a software development business focused on custom websites, workflow applications, internal business tools, and practical technology guidance.
+Production marketing and lead-generation platform for MES, a software development business focused on custom websites, workflow applications, internal business tools, and practical technology guidance.
 
 **Highlights**
 
 - Built with Next.js, TypeScript, and Tailwind CSS
-- Interactive experience paths for different client needs
+- Interactive experience paths designed around different client needs
 - Responsive, component-driven architecture
-- Animated visual elements and polished UI transitions
-- Brand-focused design for presenting professional software services
+- Custom animated visual system and polished UI interactions
+- Complete inquiry pipeline with API-based email delivery
+- Microsoft Clarity and Vercel Analytics integration
+- Production SEO, accessibility, and security configuration
+- Case studies showcasing real business-oriented development work
 
 ---
 
@@ -65,6 +68,7 @@ Custom recruiting management platform designed around real recruiter workflows.
 
 - Candidate, client, job-order, and recruiting-pipeline management
 - Searchable candidate records and workflow-driven interfaces
+- Recruiter assignment and candidate-management workflows
 - Authentication and data management with Supabase
 - Dynamic routes and reusable dashboard components
 - Built with Next.js, React, TypeScript, PostgreSQL, and Tailwind CSS
@@ -77,11 +81,12 @@ Construction management application for organizing projects, tasks, documents, d
 
 **Highlights**
 
-- Multi-section business dashboard
+- Multi-section business operations dashboard
 - Project and task tracking workflows
 - Budget, status, and activity visualizations
 - Supabase-powered data architecture
-- Responsive application interface built with Next.js and TypeScript
+- Responsive application interface
+- Built with Next.js, React, TypeScript, and Tailwind CSS
 
 ---
 
@@ -91,11 +96,11 @@ Responsive introductory website for a reclaimed golf-ball business.
 
 **Highlights**
 
-- Designed for a small-business product brand
+- Designed around the needs of a small local business
 - Clear product presentation and customer-focused calls to action
 - Mobile-first responsive layout
 - Built with Next.js, TypeScript, and modern CSS
-- Developed as an example of an affordable introductory business website
+- Demonstrates a focused, affordable introductory business website
 
 ---
 
@@ -105,11 +110,11 @@ Personal developer portfolio showcasing production-style applications, technical
 
 **Highlights**
 
-- Responsive project showcase
+- Responsive project and case-study showcase
 - Interactive About and Contact experiences
-- Theme controls and interface animations
+- Interface animations and polished transitions
 - Reusable React component architecture
-- Deployed through GitHub and Vercel
+- Production deployment on a custom MES subdomain
 
 ---
 
@@ -148,6 +153,7 @@ My background includes more than 20 years of business leadership and operational
 That experience strengthened my ability to:
 
 - Translate business needs into practical software workflows
+- Understand the operational problem before choosing the technical solution
 - Communicate clearly with technical and nontechnical stakeholders
 - Lead projects and manage competing priorities
 - Mentor team members and collaborate across departments
@@ -168,10 +174,7 @@ That experience strengthened my ability to:
 
 ## Connect With Me
 
-[![MES](https://img.shields.io/badge/MES-Visit_Website-0072E3?style=for-the-badge)](https://www.mes-solutions.dev)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-1F2937?style=for-the-badge)](https://portfolio.mes-solutions.dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Sullivan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-sullivan-92990ba2)
-
-[![Email](https://img.shields.io/badge/Email-contact%40mes--solutions.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mes-solutions.dev)
+- 🖥️ [Portfolio](https://portfolio.mes-solutions.dev)
+- 🌐 [MES](https://www.mes-solutions.dev)
+- 💻 [GitHub](https://github.com/mesem24-rgb)
+- 📧 [contact@mes-solutions.dev](mailto:contact@mes-solutions.dev)
