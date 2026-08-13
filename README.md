@@ -13,7 +13,7 @@ I transitioned into software development after more than 20 years of leadership 
 - 🧠 Experienced in leadership, operations, mentoring, and process improvement
 - 🛠️ Currently building production-style business applications and client websites
 - 🌐 MES: [mes-solutions.dev](https://www.mes-solutions.dev)
-- 🖥️ Portfolio: [michaelsullivan-portfolio-next-2.vercel.app](https://michaelsullivan-portfolio-next-2.vercel.app/)
+- 🖥️ Portfolio: [michaelsullivan-portfolio-next-2.vercel.app](https://portfolio.mes-solutions.dev)
 - 📧 Business inquiries: [contact@mes-solutions.dev](mailto:contact@mes-solutions.dev)
 
 ---
